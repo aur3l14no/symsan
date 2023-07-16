@@ -15,3 +15,5 @@ auto/
 /bin/
 .DS_Store
 /build/
+
+/install/
