@@ -17,3 +17,4 @@ auto/
 /build/
 
 /install/
+/.devcontainer/devcontainer.json
